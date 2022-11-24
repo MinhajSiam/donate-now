@@ -1,0 +1,178 @@
+.first-section {
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    height: 100vh;
+    color: #fff;
+}
+
+.text {
+    text-align: center;
+    padding-top: 10%;
+}
+
+h1 {
+
+    font-size: 40px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.link-button {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    background-color: #FF5959;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+/* p {
+    margin-bottom: 30px;
+} */
+
+.amount-box p {
+    color: #B3B3B3;
+    font-size: 30px;
+    font-weight: 700;
+    background-color: #e9e9e9;
+    padding: 30px 30px;
+    width: 100px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+
+.amount-box {
+    display: flex;
+    margin-left: 15%;
+}
+
+.text-amount {
+    color: #000;
+    text-align: center;
+    height: 100vh;
+    margin-top: 10%;
+}
+
+#esp-amount {
+    color: gray;
+    font-size: 30px;
+    font-weight: 700;
+    background-color: #FFEEEE;
+    padding: 30px 30px;
+    width: 100px;
+    margin-left: 20px;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+}
+
+.input-box {
+    outline: none;
+    width: 40%;
+    height: 30px;
+    border: 0;
+    border-bottom: 1px solid #B3B3B3;
+    padding: 7px 0;
+    opacity: 90%;
+}
+
+.bg-box {
+    padding: 40px;
+    width: 300px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+#food-box {
+    background-color: rgba(79, 157, 166, 20%);
+
+
+}
+
+#family-box {
+    background-color: rgba(255, 89, 89, 20%);
+
+}
+
+#edu-box {
+    background-color: #fff4d6;
+
+}
+
+.plan-box {
+    display: flex;
+    justify-content: center;
+
+}
+
+.plan-text {
+    text-align: center;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 80%;
+    border-radius: 6px;
+    margin-top: 10%;
+}
+
+.double-section {
+    display: flex;
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 10%;
+}
+
+.half-width p {
+    padding-right: 50px;
+}
+
+.update {
+    margin-top: 10%;
+    text-align: center;
+    height: 80vh;
+}
+
+.input {
+    height: 35px;
+    width: 300px;
+}
+
+.submit {
+    background-color: #FFF4D6;
+    padding: 50px 0;
+    margin-left: 15%;
+    margin-right: 15%;
+    /* justify-content: center; */
+}
+
+footer h1 {
+    color: #FF5959;
+    font-family: 'Lobster';
+    font-weight: 400;
+}
+
+footer p {
+    color: #fff;
+}
+
+.footer {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #000;
+    text-align: center;
+}
